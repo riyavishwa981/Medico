@@ -6,18 +6,38 @@ information of Medicine Company, Customer, Medicine Stock, Payment, Order.
 2. PROBLEM DEFINITION - Mostly people buys the product from the medical store that means people need to go there physically to buy the medicine. Due to dependency of the customer on medical store shopkeepers takes benefit of that. They charges more than the actual cost of product from the customer. Medical website will provide offers the customer which they usually not get from the shopkeepers. Most of the Website do not show the product like wheelchair, surgery products, necessary blood requirement for the person(A-), which is difficult to find any website 
 or place.
 
-3. TECHNOLOGY USED
-Framework - 1.Reactjs
-Frontend - 1.HTML 2.CSS 3.JavaScript 4.Bootstrap
-Backend - 1.MongoDB 2.Nodejs 3.Express js 4.Moongoose
-Editor - 1.Visual studio
+Medico is a sample application that allows you to build your medicin stor front which have all the fetue of user and the admin , booking , updating , selling , payment .
 
-4. CONTRIBUTORS
-Riya Vishwakarma and Ujwal Yadav
+This version of Medico is built with React and Node.js.
+You can test the application in your browser:
 
-5. How to start the project
-Step 1:  C:\Users\DELL\Downloads\medico-file> npm install
-Step 2:  C:\Users\DELL\Downloads\medico-file> npm start
-Step 3:  C:\Users\DELL\Downloads\medico-file\frontend> npm install
-Step 4:  C:\Users\DELL\Downloads\medico-file\frontend> npm start
-Step 5:  Browse localhost:3000
+Using the hosted version
+By running the application's Node.js server locally
+By deploying the application's Node.js server on Heroku
+You can also run the application as a hybrid app in Cordova.
+
+Hosted Version
+Click here to run the hosted version in your browser.
+
+Running the Node.js Server Locally
+Make sure you have an up-to-date version of Node.js installed on your system. If you don't have Node.js installed, you can install it from here.
+
+Clone this repository
+
+On the command line, navigate (cd) to the medico-store folder
+
+Install the server dependencies
+
+npm install
+Start the server
+npm run start2
+Open a browser and access: http://localhost:5050
+Some credential for testing purpose only
+
+1.For the Admin login
+Email: test@gmail
+pass: 1234 
+
+2.For the Payment using Paypal
+Email: sb-rsqno8109666@business.example.com
+Pass: Aniket1234
