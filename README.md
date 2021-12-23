@@ -6,38 +6,33 @@ information of Medicine Company, Customer, Medicine Stock, Payment, Order.
 2. PROBLEM DEFINITION - Mostly people buys the product from the medical store that means people need to go there physically to buy the medicine. Due to dependency of the customer on medical store shopkeepers takes benefit of that. They charges more than the actual cost of product from the customer. Medical website will provide offers the customer which they usually not get from the shopkeepers. Most of the Website do not show the product like wheelchair, surgery products, necessary blood requirement for the person(A-), which is difficult to find any website 
 or place.
 
-Medico is a sample application that allows you to build your medicin stor front which have all the fetue of user and the admin , booking , updating , selling , payment .
-
-This version of Medico is built with React and Node.js.
+3. Medico is a sample application that allows you to build your medical store website which have all the features of user and the admin , booking , updating , selling , payment .This version of Medico is built with React and Node.js.
 You can test the application in your browser: https://medico-store.azurewebsites.net/
 
-Using the hosted version
+4. Using the hosted version
 By running the application's Node.js server locally
 By deploying the application's Node.js server on Heroku
 You can also run the application as a hybrid app in Cordova.
 
-Hosted Version
+-> Hosted Version
 Click here to run the hosted version in your browser.
 
-Running the Node.js Server Locally
+-> Running the Node.js Server Locally
 Make sure you have an up-to-date version of Node.js installed on your system. If you don't have Node.js installed, you can install it from here.
 
-Clone this repository
+5. Clone this repository
+-> On the command line, navigate (cd) to the medico-store folder
+-> Install the server dependencies
+-> npm install
+-> Start the server
+-> npm run start
+-> Open a browser and access: http://localhost:5050
 
-On the command line, navigate (cd) to the medico-store folder
+6. Some credential for testing purpose only
+-> For the Admin login
+   Email: test@gmail
+   Password: 1234 
 
-Install the server dependencies
-
-npm install
-Start the server
-npm run start2
-Open a browser and access: http://localhost:5050
-Some credential for testing purpose only
-
-1.For the Admin login
-Email: test@gmail
-pass: 1234 
-
-2.For the Payment using Paypal
-Email: sb-rsqno8109666@business.example.com
-Pass: Aniket1234
+-> For the Payment using Paypal
+   Email: sb-rsqno8109666@business.example.com
+   Password: Aniket1234
