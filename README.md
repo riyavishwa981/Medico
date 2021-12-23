@@ -9,7 +9,7 @@ or place.
 Medico is a sample application that allows you to build your medicin stor front which have all the fetue of user and the admin , booking , updating , selling , payment .
 
 This version of Medico is built with React and Node.js.
-You can test the application in your browser:
+You can test the application in your browser: https://medico-store.azurewebsites.net/
 
 Using the hosted version
 By running the application's Node.js server locally
